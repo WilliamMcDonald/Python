@@ -67,7 +67,7 @@ for user in users:
 	print('Setting ftpstring')
 	ftpstring = '/home' + user + '/ftp/'
 	print('ftpstring for ' + user + ' set to ' + ftpstring)
-o
+
 	print('Setting filestring.')
 	filestring = ftpstring + 'files/'
 	print('filestring has been set.')
